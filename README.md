@@ -9,4 +9,4 @@ This notebook creates a pipeline that transforms 356 of Saint James hostel's res
 
 <br/>
 
-The notebook can be found [here.](SJ Little Hotelier Data Migration.ipynb)
+The notebook can be found [here.](SJ_Little_Hotelier_Data_Migration.ipynb)
